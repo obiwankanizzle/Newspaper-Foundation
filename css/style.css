@@ -1,0 +1,9 @@
+.newspaper-page {
+	outline: 2px solid red;
+}
+.row {
+	width: 600px;
+}
+.six-up-stories .column {
+	outline: 2px solid blue;
+}
